@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "fragua-data-usa": {
+      "type": "http",
+      "url": "https://apiv2.atlas-reanalytics.com/public-usa-mcp/mcp",
+      "oauth": {
+        "clientId": "upBLX7axiWSfXL73zPVDDikJYBRBT0QR",
+        "callbackPort": 4322,
+        "scopes": "openid profile email"
+      }
+    }
+  }
+}

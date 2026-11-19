@@ -1,0 +1,15 @@
+{
+  "name": "atlas-reanalytics",
+  "owner": {
+    "name": "Atlas Real Estate Analytics",
+    "email": "welcome@atlas-reanalytics.com"
+  },
+  "description": "Fragua plugins by Atlas Real Estate Analytics.",
+  "plugins": [
+    {
+      "name": "fragua-data-usa",
+      "source": "./",
+      "description": "U.S. real estate market data from Fragua by Atlas Real Estate Analytics."
+    }
+  ]
+}

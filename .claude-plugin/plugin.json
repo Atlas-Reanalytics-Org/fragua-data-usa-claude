@@ -1,0 +1,25 @@
+{
+  "name": "fragua-data-usa",
+  "displayName": "Fragua Data USA",
+  "version": "1.0.0",
+  "description": "U.S. real estate market data from Fragua by Atlas Real Estate Analytics.",
+  "author": {
+    "name": "Atlas Real Estate Analytics",
+    "email": "welcome@atlas-reanalytics.com",
+    "url": "https://us.fragua-ai-plugins.atlas-reanalytics.com/claude"
+  },
+  "homepage": "https://us.fragua-ai-plugins.atlas-reanalytics.com/claude",
+  "license": "MIT",
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://us.fragua-ai-plugins.atlas-reanalytics.com/claude",
+  "supportUrl": "https://us.fragua-ai-plugins.atlas-reanalytics.com/support",
+  "privacyPolicyUrl": "https://atlas-reanalytics.com/fragua/en/privacy-policy/",
+  "termsOfServiceUrl": "https://atlas-reanalytics.com/fragua/en/terms-and-conditions/",
+  "keywords": [
+    "real estate",
+    "housing market",
+    "united states",
+    "demographics",
+    "listings"
+  ]
+}
